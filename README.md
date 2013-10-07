@@ -15,4 +15,4 @@ Desarrollar un programa utilizando el paradigma de programacion imperativa en ru
 - README.md
 
 En el archivo operaciones_matrices.rb podemos encontrar los comentarios de github a la hora de encontrar un conflicto al realizar un merge.
-En el archivo matrices-fixed.rb se encuentra la práctica finalizada.
+En el archivo operaciones_matrices_fixed.rb se encuentra la práctica finalizada.
